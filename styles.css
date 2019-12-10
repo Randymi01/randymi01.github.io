@@ -1,6 +1,12 @@
 .blicker {
-    background: red
+    background: red;
 }
 #div1:hover {
     background-color: yellow;
+}
+
+body {
+    font-family: "Helvetica Neue";
+    font-size: 25px;
+    background-color: red;
 }
